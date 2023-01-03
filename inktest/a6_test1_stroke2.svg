@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 105 148"
+   height="148mm"
+   width="105mm"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01, custom)"
+   sodipodi:docname="a6_test1_stroke2"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8137767"
+     inkscape:cx="78.289683"
+     inkscape:cy="122.12088"
+     inkscape:window-width="1330"
+     inkscape:window-height="582"
+     inkscape:window-x="30"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="42.665278"
+       y="48.26988"
+       width="297.65859"
+       height="113.19775"
+       id="rect236" />
+    <rect
+       x="42.665278"
+       y="48.26988"
+       width="297.65859"
+       height="113.19775"
+       id="rect902" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text234"
+       style="font-size:16px;white-space:pre;shape-inside:url(#rect236);fill:none;stroke:#000000;stroke-width:0.944882;fill-opacity:1"><tspan
+         x="42.666016"
+         y="62.425781"
+         id="tspan7375">Howdy there, writing an interesting </tspan><tspan
+         x="42.666016"
+         y="82.425781"
+         id="tspan7377">thing.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.26453884,16.061891)"
+       id="text900"
+       style="font-size:16px;white-space:pre;shape-inside:url(#rect902);fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.944882"><tspan
+         x="42.666016"
+         y="62.425781"
+         id="tspan7379">Howdy there, writing an interesting </tspan><tspan
+         x="42.666016"
+         y="82.425781"
+         id="tspan7381">thing.</tspan></text>
+  </g>
+</svg>

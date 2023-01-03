@@ -1,0 +1,37 @@
+# Adding stroke fonts 
+
+https://www.evilmadscientist.com/2011/hershey-text-an-inkscape-extension-for-engraving-fonts/
+
+https://github.com/evil-mad/EggBot/releases/tag/v2.8.1
+
+https://github.com/evil-mad/EggBot/releases/download/v2.8.1/EggBotExamples_v281.zip
+
+
+
+sudo cp -r EggBotExamples_v2.8.1 /snap/inkscape/10512/share/inkscape/extensions
+
+---> couldn't copy over to inkscape extensions folder
+
+from extensions folder:
+
+wget https://github.com/evil-mad/EggBot/releases/download/v2.8.1/EggBotExamples_v281.zip
+
+
+###
+
+Don't use snap install
+
+/usr/share/inkscape/extensions
+
+
+https://github.com/Shriinivas/inkscapestrokefont
+From inside the inkscapestrokefont folder
+sudo cp -r ./ /usr/share/inkscape/extensions
+
+Inkscape
+Extensions/Custom stoke fonts
+
+
+
+
+

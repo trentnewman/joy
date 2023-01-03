@@ -1,0 +1,137 @@
+# ~~~~~~~~~~
+# pg1
+
+outline: '双语'
+outline: '篇哲学对话'
+
+# ~~~~~~~~~~
+
+
+# ~~~~~~~~~~
+# pg2
+
+*blank*
+
+# ~~~~~~~~~~
+
+
+# ~~~~~~~~~~
+# pg3
+
+h0: '篇哲学对话'
+p0: 'Piān zhéxué duìhuà'
+e0: 'Philosophical dialogue'
+
+# ~~~~~~~~~~
+
+
+# ~~~~~~~~~~
+# pg4
+
+h1: '二零二三年'
+p1: 'Èr líng èrsān nián'
+e1: '2023'
+
+h2: '圈出版社'
+p2: 'Quān chūbǎn shè'
+e2: 'Circle Press'
+
+# ~~~~~~~~~~
+
+
+# ~~~~~~~~~~
+# pg5
+
+h3: '阿强'
+p3: ', Āqiáng:'
+e3: '(name, meaning "strong and powerful")' 
+
+h4: '世界是什么'         #S世界是什么?
+p4: 'Shìjiè shì shénme?'
+e4: 'What is the world?'
+
+h5: '保华'
+p5: ', Bǎohuá:'
+e5: '(name, meaning "to protect and flower")' 
+
+h6: '世界是我们所生活的地方'       #世界是我们所生活的地方。
+p6: 'Shìjiè shì wǒmen suǒ shēnghuó de dìfāng.'
+e6: 'The world is the place where we live.'
+
+# ~~~~~~~~~~
+
+
+# ~~~~~~~~~~
+# pg6
+
+h7: '阿强'
+p7: ':'
+e7: '  '
+ 
+h8: '那么人是什么'        # 那么，人是什么？
+p8: 'Nàme, rén shì shénme?'
+e8: 'Then, what is a person?'
+
+h9: '保华'
+p9: ':'
+e9: '  '
+
+h10: '人是世界的一部分是有意识的生命体'     #人是世界的一部分，是有意识的生命体。
+p10: 'Rén shì shìjiè de yī bùfèn, shì yǒu yìshí de shēngmìng tǐ.'
+e10: 'A person is a part of the world, a conscious being.'
+
+# ~~~~~~~~~~
+
+
+# ~~~~~~~~~~
+# pg7
+
+h11: '阿强'
+p11: ':'
+e11: '  '
+
+h12: '人为什么存在'       #人为什么存在？
+p12: 'Rén wèi shénme cúnzài?'
+e12: 'Why does a person exist?'
+
+# ~~~~~~~~~~
+
+
+# ~~~~~~~~~~
+# pg8
+
+h13: '保华'
+p13: ':'
+e13: '  '
+
+h14: '这是一个深奥的问题有许多不同的看法'       #这是一个深奥的问题，有许多不同的看法。
+p14: 'Zhè shì yīgè shēn'ào de wèntí, yǒu xǔduō bùtóng de kànfǎ.'
+e14: 'This is a deep question, with many different viewpoints.'
+
+h15: '有些人认为人存在是为了完成某种目的'      #有些人认为人存在是为了完成某种目的，
+p15: 'Yǒuxiē rén rènwéi rén cúnzài shì wèile wánchéng mǒu zhǒng mùdì,'
+e15: 'Some people believe that a person exists to fulfill some purpose,' 
+
+h16: '有些人认为人存在是因为这是宇宙的规律'     #有些人认为人存在是因为这是宇宙的规律。
+p16: 'yǒuxiē rén rènwéi rén cúnzài shì yīnwèi zhè shì yǔzhòu de guīlǜ.' #律, lǜ
+e16: 'while others believe that a person exists because it is a law of the universe.'
+
+# ~~~~~~~~~~
+
+
+# ~~~~~~~~~~
+# pg9
+
+pic
+
+# ~~~~~~~~~~
+
+
+
+# ~~~~~~~~~~
+# pg9=10
+
+*blank*
+
+# ~~~~~~~~~~
+
