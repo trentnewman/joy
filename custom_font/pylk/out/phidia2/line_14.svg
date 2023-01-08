@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="306pt" height="72pt" viewBox="0 0 306 72" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-01-08T17:25:31.230876</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 72 
+L 306 72 
+L 306 0 
+L 0 0 
+z
+" style="fill: #8fff9f"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 1.389352 63 
+L 14.810648 63 
+L 14.810648 8.64 
+L 1.389352 8.64 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 3.263834 32.783338 
+L 3.263834 33.345683 
+Q 4.126097 39.718924 4.163586 47.066897 
+Q 4.163586 47.81669 4.088607 47.029407 
+Q 3.638731 42.080772 3.488772 35.82 
+L 3.488772 35.145186 
+Q 3.488772 33.6456 5.082083 33.008276 
+Q 6.675393 32.370952 8.1 32.783338 
+Q 9.637076 33.233214 10.611807 34.414138 
+Q 11.586538 35.595062 11.961434 37.282097 
+Q 12.336331 38.969131 12.467545 40.543697 
+Q 12.598759 42.118262 12.673738 44.067724 
+Q 12.748717 46.017186 12.936166 47.066897 
+" clip-path="url(#pe226b0ec00)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mfa723fa8c2" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfa723fa8c2" x="6.263007" y="63" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mfa723fa8c2" x="13.760938" y="63" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <defs>
+       <path id="mf09886ce8a" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf09886ce8a" x="1.389352" y="49.878621" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mf09886ce8a" x="1.389352" y="12.388966" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 1.389352 63 
+L 1.389352 8.64 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 14.810648 63 
+L 14.810648 8.64 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 1.389352 63 
+L 14.810648 63 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 1.389352 8.64 
+L 14.810648 8.64 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_8">
+    <path d="M 20.401076 63 
+L 28.198924 63 
+L 28.198924 8.64 
+L 20.401076 8.64 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 22.275559 33.68309 
+Q 22.725434 33.270703 24.206276 32.183503 
+Q 25.687117 31.096303 26.324441 30.309021 
+M 22.612966 36.157407 
+Q 22.575476 36.269876 22.594221 37.338331 
+Q 22.612966 38.406786 22.612966 38.519255 
+Q 22.612966 39.643945 22.875393 40.693655 
+Q 23.137821 41.743366 23.568952 43.018014 
+Q 24.000083 44.292662 24.187531 45.042455 
+L 24.637407 45.492331 
+" clip-path="url(#pb6c7daed39)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3"

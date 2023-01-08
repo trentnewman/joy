@@ -1,0 +1,37 @@
+Write a conversation in chinese between two strangers meeting at a train station. Provide pinyin and english translation
+
+Sure! Here is a conversation that I came up with:
+
+(Two strangers, Yáo and Lǐ, are meeting at a train station)
+
+Yáo: 对不起，您能告诉我这是哪一班火车吗？
+duìbùqǐ, nín néng gàosu wǒ zhè shì nǎ yībān huǒchē ma?
+Excuse me, can you tell me which train this is?
+
+Lǐ: 嗯，这是D2252次列车。它去往杭州。
+ēn, zhè shì D2252 cì lièchē. Tā qùwǎng Hángzhōu.
+Hmm, this is the D2252 train. It goes to Hangzhou.
+
+Yáo: 谢谢！您是哪里人？
+xièxiè! Nín shì nǎlǐ rén?
+Thank you! Where are you from?
+
+Lǐ: 我是上海人。你呢？
+wǒ shì Shànghǎi rén. Nǐ ne?
+I'm from Shanghai. And you?
+
+Yáo: 我是南京人。我来这里是因为我有朋友在杭州。
+wǒ shì Nánjīng rén. Wǒ lái zhèlǐ shì yīnwèi wǒ yǒu péngyou zài Hángzhōu.
+I'm from Nanjing. I'm here because I have a friend in Hangzhou.
+
+Lǐ: 哦，真的吗？你们是多久以前认识的？
+ó, zhēn de ma? Nǐmen shì duōjiǔ yǐqián rènshí de?
+Oh, really? How long have you known each other?
+
+Yáo: 我们是在大学认识的。已经有十年了。
+wǒmen shì zài dàxué rènshí de. Yǐjīng yǒu shí nián le.
+We met in university. It's been ten years.
+
+Lǐ: 哇，真的吗？时间过得真快啊！
+wā, zhēn de ma? Shíjiān guò de zhēn kuài a!
+Wow, really? Time passes so quickly!
