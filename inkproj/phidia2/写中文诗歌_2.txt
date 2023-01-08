@@ -1,0 +1,169 @@
+# aim for hanzi l-max: 14
+# scaling
+# pg01, main: 100%; sub: 70%
+# pg02, hanzi: 70%; other: 50%
+# pg03: head: 50%, hanzi: 70%; other: 40%
+# pg04: hanzi: 70%; other: 40%
+# pg05: hanzi: 70%; other: 40%
+# pg06: hanzi: 70%; other: 40%
+# pg07: hanzi: 70%; other: 40%
+# pg08: hanzi: 70%; other: 40%
+# pg09: pic: 7 cm wide
+
+#
+# ~~~~~~~~~~
+# cover
+"心之所向",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg01
+#
+"心之所向",
+"Heart's direction",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg02
+"二零二三年",
+"Èr líng èrsān nián",
+"2023",
+#
+"圈出版社",
+"Quān chūbǎn shè",
+"Circle Press",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg03
+#
+"(Two strangers,",
+"meeting at a station)",
+#
+"对不起，",
+"duìbùqǐ,",
+"您能告诉我",
+"nín néng gàosu wǒ",
+"这是哪一班火车吗？",
+"zhè shì nǎ yībān huǒchē ma?",
+#
+"Excuse me," ,
+"can you tell me",
+"which train this is?",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg04
+#
+"嗯，",
+"ēn,",
+"这是D2252次列车。",
+"zhè shì D2252 cì lièchē.",
+"它去往杭州。",
+"Tā qùwǎng Hángzhōu.",
+#
+"Hmm,",
+"this is the D2252 train.",
+"It goes to Hangzhou.",
+#
+"谢谢！",
+"xièxiè!",
+"您是哪里人？",
+"Nín shì nǎlǐ rén?",
+#
+"Thank you!" ,
+"Where are you from?",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg05
+#
+"我是上海人。",
+"wǒ shì Shànghǎi rén.",
+"你呢？",
+"Nǐ ne?",
+#
+"I'm from Shanghai.",
+"And you?",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg06
+#
+"我是南京人。",
+"wǒ shì Nánjīng rén.",
+"我来这里是因为",
+"Wǒ lái zhèlǐ shì yīnwèi",
+"我有朋友在杭州。",
+"wǒ yǒu péngyou zài Hángzhōu.",
+#
+"I'm from Nanjing.",
+"I'm here because",
+"I have a friend in Hangzhou.",
+#
+"哦，真的吗？",
+"ó, zhēn de ma?",
+"你们是多久以前认识的？",
+"Nǐmen shì duōjiǔ yǐqián rènshí de?",
+#
+"Oh, really?",
+"How long have you known each other?",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg07
+#
+"我们是在大学认识的。",
+"wǒmen shì zài dàxué rènshí de.",
+"已经有十年了。",
+"Yǐjīng yǒu shí nián le.",
+#
+"We met in university.",
+"It's been ten years.",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg08
+#
+"哇，真的吗？",
+"wā, zhēn de ma?",
+"时间过得真快啊！",
+"Shíjiān guò de zhēn kuài a!",
+#
+"Wow, really?",
+"Time passes so quickly!",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg09
+#
+# pic
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg10
+#
+# *blank*
+#
+# ~~~~~~~~~~
+#
