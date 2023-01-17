@@ -1,0 +1,632 @@
+#
+# ~~~~~~~~~~
+# cover
+"李雪",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg01
+#
+"李雪",
+"Li Xue",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg02
+"二零二三年",
+"Èr líng èrsān nián",
+"2023",
+#
+"圈出版社",
+"Quān chūbǎn shè",
+"Circle Press",
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg03
+#
+小科学家叫李雪， 
+xiǎo kē xué jiā jiào lǐ xuě, 
+她对遗传学非常感兴趣。
+tā duì yí chéng xué fēi cháng gǎn xìng qù. 
+#
+The young scientist's name is Li Xue, 
+and she is very interested in genetics.
+#
+#
+李雪在大学期间，
+lǐ xuě zài dà xué qí jiān, 
+就开始研究遗传学。  
+jiù kāi shǐ yán jiū yí chéng xué. 
+#
+During her university studies, 
+Li Xue began studying genetics.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg04
+#
+她毕业后，                                 
+tā bì yè hòu, 
+在一家研究所工作，
+zài yī jiā yán jiū suǒ gōng zuò, 
+继续深入研究遗传学。 
+jì xù shēn rù yán jiū yí chéng xué. 
+#
+After graduating, 
+she worked at a research institute 
+and continued to study genetics in depth.
+#
+#
+李雪认为，
+lǐ xuě rèn wéi, 
+遗传学是生物学的重要组成部分，                                         ** too long **
+yí chéng xué shì shēng wù xué de zhòng yào zǔ chéng bù fèn, 
+能够解释生命的起源和演变。                                            ** too long ** 
+néng gòu jiě shì shēng mìng de qǐ yuán hé yǎn biàn. 
+#
+Li Xue believes 
+that genetics is an important part of biology, 
+able to explain the origin and evolution of life.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg05
+#
+她希望能够通过实验，
+tā xī wàng néng gòu tōng guò shí yàn, 
+找到遗传疾病的起源，
+zhǎo dào yí chéng jí bìng de qǐ yuán, 
+为人类健康作出贡献。 
+wèi rén lèi jiàn kāng zuò chū gòng xián. 
+#
+She hopes that through experiments, 
+she can find the origin of genetic diseases 
+and make contributions to human health.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg06
+#
+李雪在遗传学实验室里工作。                                           ** too long ** 
+lǐ xuě zài yí chéng xué shí yàn shì lǐ gōng zuò. 
+#
+Li Xue works in the genetics laboratory.
+#
+#
+李雪非常专注，
+lǐ xuě fēi cháng zhuān zhù, 
+小心翼翼地进行着各种实验。                                           ** too long **
+xiǎo xīn yì yì de jìn xíng zhe gè zhǒng shí yàn. 
+#
+Li Xue is very focused, 
+carefully conducting various experiments.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg07
+#
+实验室是一个现代化和高科技的场所。                                   ** too long **
+shí yàn shì shì yī gè xiàn dài huà hé gāo kē jì de chǎng suǒ. 
+The laboratory is a modern and high-tech place.
+#
+有各种各样的仪器和设备，                                            ** too long **
+yǒu gè zhǒng gè yàng de yí qì hé shè bèi, 
+可以用来进行研究。
+kě yǐ yòng lái jìn xíng yán jiū.
+#
+There are various instruments 
+and equipment that can be used for research.
+#
+#
+她穿着白大褂，
+tā chuān zhe bái dà guà, 
+戴着安全眼镜，
+dài zhe ān quán yǎn jìng, 
+一边操作着实验设备，
+yī biān cāo zuò zhe shí yàn shè bèi, 
+一边记录着实验数据。 
+yī biān jì lù zhe shí yàn shù jù.
+#
+Wearing a white lab coat, 
+with safety glasses on, 
+she operates the experimental equipment 
+while recording the experimental data.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg08
+#
+小科学家李雪为了科学的真理，                                      ** too long **
+xiǎo kē xué jiā lǐ xuě wèi le kē xué de zhēn lǐ, 
+在实验室里度过了很多时光。                                       ** too long **
+zài shí yàn shì lǐ dù guò le hěn duō shí guāng. 
+#
+For the sake of scientific truth the young scientist Li Xue 
+has spent a lot of time in the laboratory.
+#
+#
+外面阳光明媚，
+wài miàn yáng guāng míng mèi,
+但李雪并不在意。 
+dàn lǐ xuě bìng bú zài yì.
+#
+It is sunny outside, 
+but Li Xue does not pay attention to it.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg09
+#
+她专注地埋头在显微镜下观察细胞。                                ** too long ** 
+tā zhuān zhù dì mái tóu zài xiǎn wēi jìng xià guān chá xì bāo.
+#
+She is focused on observing cells under the microscope.
+#
+#
+李雪知道，
+lǐ xuě zhī dào, 
+细心和耐心是成功研究的关键。                                  ** too long ** 
+xì xīn hé nài xīn shì chéng gōng yán jiū de guān jiàn. 
+#
+Li Xue knows 
+that attention and patience are the key to successful research.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg10
+#
+李雪是一名遗传学家，
+lǐ xuě shì yī míng yí chéng xué jiā, 
+她在实验室里进行着对活细胞的遗传操作。                         ** too long **
+tā zài shí yàn shì lǐ jìn xíng zhe duì huó xì bāo de yí chéng cāo zuò.
+# 
+Li Xue is a geneticist, 
+she carries out genetic manipulation of live cells in the laboratory.
+#
+#
+她首先用显微镜观察细胞，                                        ** too long **
+tā shǒu xiān yòng xiǎn wēi jìng guān chá xì bāo, 
+确保它们健康。
+què bǎo tā men jiàn kāng. 
+#
+She first observed the cells under a microscope, 
+to ensure that they are healthy.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg11
+#
+然后，
+rán hòu, 
+她使用遗传工程技术，
+tā shǐ yòng yí chéng gōng chéng jì shù, 
+在细胞DNA中插入新基因。                                           ** too long **
+zài xì bāo DNA zhōng chā rù xīn jī yīn. 
+#
+Then, 
+she used genetic engineering techniques 
+to insert new genes into the cell's DNA.
+#
+#
+李雪非常小心地进行操作，                                            ** too long **
+lǐ xuě fēi cháng xiǎo xīn dì jìn xíng cāo zuò, 
+确保不会损害细胞。
+què bǎo bú huì sǔn hài xì bāo. 
+#
+Li Xue carried out the operation very carefully 
+to ensure that the cells will not be damaged.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg12
+#
+她细心地记录细胞的变化，                                            ** too long **
+tā xì xīn dì jì lù xì bāo de biàn huà, 
+并进行分析。 
+bìng jìn xíng fēn xī. 
+#
+She carefully records the changes in cells and conducts analysis.
+#
+#
+她发现，
+tā fā xiàn, 
+在插入新基因后，
+zài chā rù xīn jī yīn hòu, 
+细胞发生了意料之外的变化。                                           ** too long **
+xì bāo fā shēng le yì liào zhī wài de biàn huà.
+# 
+She found 
+that after inserting new genes, 
+the cells underwent unexpected changes.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg13
+#
+李雪兴奋地发现，
+lǐ xuě xīng fèn dì fā xiàn, 
+细胞具有了新的生物学特性。                                           ** too long **
+xì bāo jù yǒu le xīn de shēng wù xué tè xìng. 
+#
+Li Xue excitedly discovered 
+that the cells have new biological characteristics.
+#
+#
+她立即开始进一步研究这些变化，                                         ** too long **
+tā lì jí kāi shǐ jìn yī bù yán jiū zhè xiē biàn huà, 
+希望能够找到科学的解释。                                            ** too long **
+xī wàng néng gòu zhǎo dào kē xué de jiě shì. 
+#
+She immediately began further research on these changes, hoping to find a scientific explanation.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg14
+#
+她正在她的办公室里写研究报告。                                         ** too long ** 
+tā zhèng zài tā de bàn gōng shì lǐ xiě yán jiū bào gào. 
+#
+she is writing a research report in her office.
+#
+#
+她想着如何更好地研究一种遗传疾病。                                       ** too long **
+tā xiǎng zhe rú hé gèng hǎo dì yán jiū yī zhǒng yí chéng jí bìng. 
+#
+She thinks about how to better study a genetic disease.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg15
+#
+她知道自己需要更多的知识和经验来完成这项研究。                                ** too long **
+tā zhī dào zì jǐ xū yào gèng duō de zhī shi hé jīng yàn lái wán chéng zhè xiàng yán jiū. 
+#
+She knows that she needs more knowledge and experience to complete this research.
+#
+#
+她的研究得出了令人兴奋的结论，                                             ** too long **
+tā de yán jiū dé chū le lìng rén xīng fèn de jié lùn, 
+但是她现在很难用语言来描述它。                                             ** too long **
+dàn shì tā xiàn zài hěn nán yòng yǔ yán lái miáo shù tā. 
+#
+Her research has led to an exciting conclusion, 
+but she is now having a hard time describing it with words.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg16
+#
+她深呼吸，
+tā shēn hū xī, 
+尝试着把她的想法整理成清晰的思路。                                           ** too long **
+cháng shì zhe bǎ tā de xiǎng fǎ zhěng lǐ chéng qīng xī de sī lù. 
+#
+She took a deep breath, 
+trying to organize her thoughts into a clear line of reasoning.
+#
+#
+然而，
+rán ér, 
+外面的建筑工地噪音让她很难集中精力。                                          ** too long **
+wài miàn de jiàn zhú gōng dì zào yīn ràng tā hěn nán jí zhōng jīng lì. 
+#
+However, 
+the noise from the construction site outside is making it hard for her to focus.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg17
+#
+她尝试着用耳塞消除噪音，                                                ** too long **
+tā cháng shì zhe yòng ěr sāi xiāo chú zào yīn, 
+但是效果并不理想。 
+dàn shì xiào guǒ bìng bú lǐ xiǎng. 
+#
+She tries to eliminate noise with earplugs, 
+but the effect is not ideal.
+#
+#
+她放下手中的工作，
+tā fàng xià shǒu zhōng de gōng zuò, 
+决定休息一会儿。 
+jué dìng xiū xī yī huì er. 
+#
+She put down her work 
+and decided to take a break.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg18
+#
+她走到餐厅，
+tā zǒu dào cān tīng, 
+和一位同事聊天。
+hé yī wèi tóng shì liáo tiān.
+# 
+She went to the canteen 
+and talked to a colleague.
+#
+#
+她的同事叫张博。
+tā de tóng shì jiào zhāng bó. 
+#
+Her colleague is called Zhang Bo.
+#
+#
+她和同事聊着他们最近的研究进展，                                               ** too long **
+tā hé tóng shì liáo zhe tā men zuì jìn de yán jiū jìn zhǎn, 
+并互相交流想法。
+bìng hù xiāng jiāo liú xiǎng fǎ. 
+#
+They talked about their recent research progress 
+and exchanged ideas.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg19
+#
+一天，
+yī tiān, 
+张博走进了李雪的实验室，                                                ** too long **
+zhāng bó zǒu jìn le lǐ xuě de shí yàn shì, 
+他想和李雪讨论一个新的研究课题。                                        ** too long **
+tā xiǎng hé lǐ xuě tǎo lùn yī gè xīn de yán jiū kè tí. 
+#
+One day, 
+Zhang Bo entered Li Xue's laboratory, 
+he wanted to discuss a new research topic with Li Xue.
+#
+#
+李雪非常高兴，
+lǐ xuě fēi cháng gāo xìng, 
+她喜欢和同事一起工作，
+tā xǐ huān hé tóng shì yī qǐ gōng zuò, 
+分享研究心得。
+fēn xiǎng yán jiū xīn dé. 
+#
+Li Xue was very happy, 
+she likes working with colleagues, 
+sharing research experiences.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg20
+#
+张博跟李雪说，
+zhāng bó gēn lǐ xuě shuō, 
+他在研究一种新的遗传疾病，                                           ** too long **
+tā zài yán jiū yī zhǒng xīn de yí chéng jí bìng, 
+需要李雪的帮助。
+xū yào lǐ xuě de bāng zhù. 
+#
+Zhang Bo told Li Xue 
+that he was researching a new genetic disease, 
+and needed Li Xue's help.
+#
+#
+李雪听完之后，
+lǐ xuě tīng wán zhī hòu, 
+点头表示愿意帮助张博。                                             ** too long **
+diǎn tóu biǎo shì yuàn yì bāng zhù zhāng bó. 
+#
+After listening, Li Xue 
+nodded, indicating that she was willing to help Zhang Bo.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg21
+#
+李雪和张博正在进行一项遗传学实验。                                       ** too long **
+lǐ xuě hé zhāng bó zhèng zài jìn xíng yī xiàng yí chéng xué shí yàn. 
+#
+Li Xue and Zhang Bo are currently conducting a genetics experiment.
+#
+#
+他们在实验室里培养细胞，                                            ** too long **
+tā men zài shí yàn shì lǐ péi yǎng xì bāo, 
+并对细胞进行基因操作。                                             ** too long **
+bìng duì xì bāo jìn xíng jī yīn cāo zuò. 
+#
+They are cultivating cells in the laboratory 
+and performing genetic manipulation on the cells.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg22
+#
+他们花了很多时间和精力在实验上，                                        ** too long **
+tā men huā le hěn duō shí jiān hé jīng lì zài shí yàn shàng, 
+希望能够取得成功。
+xī wàng néng gòu qǔ dé chéng gōng. 
+#
+They have spent a lot of time and effort on the experiment, 
+hoping to achieve success.
+#
+#
+最终，
+zuì zhōng, 
+他们的实验取得了成功，
+tā men de shí yàn qǔ dé le chéng gōng, 
+为医学界带来了重大突破。                                                ** too long **
+wèi yī xué jiè dài lái le zhòng dà tū pò. 
+#
+Eventually, 
+their experiment was a success, 
+bringing a major breakthrough to the medical field.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg23
+#
+李雪和张博成功地完成了遗传学实验，                                       ** too long **
+lǐ xuě hé zhāng bó chéng gōng de wán chéng le yí chéng xué shí yàn, 
+李雪决定向同事们做一次报告。                                          ** too long **
+lǐ xuě jué dìng xiàng tóng shì men zuò yī cì bào gào. 
+#
+Li Xue and Zhang Bo successfully completed the genetics experiment, 
+Li Xue decided to make a report to her colleagues.
+#
+#
+李雪在遗传学实验室里召开了一次会议，                                      ** too long **
+lǐ xuě zài yí chéng xué shí yàn shì lǐ zhào kāi le yī cì huì yì, 
+向同事们介绍了她和张博最近的研究成果。                                     ** too long **
+xiàng tóng shì men jiè shào le tā hé zhāng bó zuì jìn de yán jiū chéng guǒ. 
+#
+Li Xue held a meeting in the genetics laboratory and introduced her 
+and Zhang Bo's recent research results to her colleagues.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg24
+#
+她讲述了他们的实验过程，                                                ** too long **
+tā jiǎng shù le tā men de shí yàn guò chéng, 
+并分享了实验结果。 
+bìng fēn xiǎng le shí yàn jié guǒ. 
+#
+She described the process of their experiment 
+and shared the results of the experiment.
+#
+#
+她表示，
+tā biǎo shì, 
+这项研究将有助于帮助更多患有遗传疾病的人们。                                  ** too long **
+zhè xiàng yán jiū jiāng yǒu zhù yú bāng zhù gèng duō huàn yǒu yí chéng jí bìng de rén men. 
+#
+She stated 
+that the research would help more people suffering from genetic diseases.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg25
+#
+她的同事们聚精会神地听着，                                           ** too long **
+tā de tóng shì men jù jīng huì shén de tīng zhe, 
+对李雪和张博的研究成果表示敬佩。                                    ** too long **
+duì lǐ xuě hé zhāng bó de yán jiū chéng guǒ biǎo shì jìng pèi. 
+#
+Her colleagues listened attentively, 
+expressing admiration for Li Xue and Zhang Bo's research results.
+#
+#
+同事们听完李雪的演讲后，                                            ** too long **
+tóng shì men tīng wán lǐ xuě de yǎn jiǎng hòu, 
+纷纷给予了高度评价。
+fēn fēn gěi yǔ le gāo dù píng jià. 
+#
+After listening to Li Xue's speech, 
+her colleagues gave high praise.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg26
+#
+李雪坐在自己的办公室里，                                                ** too long **
+lǐ xuě zuò zài zì jǐ de bàn gōng shì lǐ, 
+回忆着和张博一起完成的成功实验。                                        ** too long **
+huí yì zhe hé zhāng bó yī qǐ wán chéng de chéng gōng shí yàn. 
+#
+Li Xue sits in her office, 
+remembering the successful experiment that she and Zhang Bo completed together.
+#
+#
+她高兴地想到，
+tā gāo xìng de xiǎng dào, 
+他们的研究成果将会有助于帮助更多患有遗传疾病的人们。                          ** too long **  
+tā men de yán jiū chéng guǒ jiāng huì yǒu zhù yú bāng zhù gèng duō huàn yǒu yí chéng jí bìng de rén men. 
+#
+She thought happily 
+that their research results will help more people suffering from genetic diseases.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg27
+#
+李雪虽然很累，
+lǐ xuě suī rán hěn lèi, 
+但是她感到非常满足。 
+dàn shì tā gǎn dào fēi cháng mǎn zú. 
+#
+Although Li Xue is tired, she feels very satisfied.
+#
+# ~~~~~~~~~~
+#
+#
+# ~~~~~~~~~~
+# pg28
+#
+她想到自己和张博的合作，                                                ** too long **  
+tā xiǎng dào zì jǐ hé zhāng bó de hé zuò, 
+让她感到非常幸运。
+ràng tā gǎn dào fēi cháng xìng yùn. 
+#
+She thought about her cooperation with Zhang Bo, and felt very lucky.
+#
+#
+李雪知道，
+lǐ xuě zhī dào, 
+这项研究是她人生中最重要的成就之一。                                  ** too long **  
+zhè xiàng yán jiū shì tā rén shēng zhōng zuì zhòng yào de chéng jiù zhī yī. 
+#
+Li Xue knows 
+that this research is one of the most important achievements of her life.
+#
+# ~~~~~~~~~~
+#
+#
+
