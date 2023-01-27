@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-01-22T22:30:25.166578</dc:date>
+    <dc:date>2023-01-26T21:11:45.864790</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,7 +40,7 @@ Q 9.749545 37.806952 8.812303 38.912897
 Q 7.875062 40.018841 6.619159 41.518428 
 Q 5.363255 43.018014 4.725931 44.142703 
 L 11.923945 43.917766 
-" clip-path="url(#p6b43f6465b)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p664351c3c7)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_2">
@@ -59,7 +59,7 @@ Q 28.180179 37.319586 27.842772 35.557572
 Q 27.505366 33.795559 26.943021 31.714883 
 Q 26.380676 29.634207 26.155738 28.397048 
 L 24.581172 26.372607 
-" clip-path="url(#p8f3846c2ee)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pd5b838c5eb)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_3">
@@ -74,7 +74,7 @@ Q 42.149545 37.806952 41.212303 38.912897
 Q 40.275062 40.018841 39.019159 41.518428 
 Q 37.763255 43.018014 37.125931 44.142703 
 L 44.323945 43.917766 
-" clip-path="url(#p1f2a720d25)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p5db0b739d3)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_4">
@@ -93,21 +93,21 @@ Q 60.692648 38.669214 60.692648 39.756414
 Q 60.692648 41.630897 59.005614 42.830566 
 Q 57.318579 44.030234 55.406607 44.030234 
 Q 53.232207 43.730317 52.707352 42.905545 
-" clip-path="url(#p176a925776)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pd2bf04ed4c)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p6b43f6465b">
+  <clipPath id="p664351c3c7">
    <rect x="2.401572" y="8.64" width="11.396855" height="54.36"/>
   </clipPath>
-  <clipPath id="p8f3846c2ee">
+  <clipPath id="pd5b838c5eb">
    <rect x="18.545338" y="8.64" width="11.509324" height="54.36"/>
   </clipPath>
-  <clipPath id="p1f2a720d25">
+  <clipPath id="p5db0b739d3">
    <rect x="34.801572" y="8.64" width="11.396855" height="54.36"/>
   </clipPath>
-  <clipPath id="p176a925776">
+  <clipPath id="pd2bf04ed4c">
    <rect x="50.832869" y="8.64" width="11.734262" height="54.36"/>
   </clipPath>
  </defs>

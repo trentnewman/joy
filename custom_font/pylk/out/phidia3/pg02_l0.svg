@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-01-22T22:30:21.726031</dc:date>
+    <dc:date>2023-01-26T21:11:43.178961</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -34,7 +34,7 @@ z
 L 17.661538 28.621986 
 M 4.165262 40.431228 
 L 24.184738 39.756414 
-" clip-path="url(#p64710e87b6)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p11904c926c)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_2">
@@ -87,7 +87,7 @@ M 40.444324 24.91051
 L 41.119138 24.91051 
 L 42.806172 24.91051 
 L 45.955303 24.685572 
-" clip-path="url(#p8f9ec69a69)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p67b22b5312)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_3">
@@ -96,7 +96,7 @@ L 45.955303 24.685572
 L 74.361538 28.621986 
 M 60.865262 40.431228 
 L 80.884738 39.756414 
-" clip-path="url(#p73aa2ced4b)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pd7adf49153)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_4">
@@ -112,7 +112,7 @@ M 94.91369 28.846924
 Q 94.91369 28.659476 95.513524 28.71571 
 Q 96.113359 28.771945 96.263317 28.734455 
 L 103.5738 27.609766 
-" clip-path="url(#p72c0866149)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p188a2b4b2e)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_5">
@@ -137,24 +137,24 @@ L 129.655676 26.0352
 M 122.457662 24.460634 
 L 122.457662 25.135448 
 L 120.995566 29.634207 
-" clip-path="url(#p8c21647f54)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pa023f19e6f)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p64710e87b6">
+  <clipPath id="p11904c926c">
    <rect x="2.290779" y="8.64" width="23.768441" height="54.36"/>
   </clipPath>
-  <clipPath id="p8f9ec69a69">
+  <clipPath id="p67b22b5312">
    <rect x="31.484297" y="8.64" width="22.081407" height="54.36"/>
   </clipPath>
-  <clipPath id="p73aa2ced4b">
+  <clipPath id="pd7adf49153">
    <rect x="58.990779" y="8.64" width="23.768441" height="54.36"/>
   </clipPath>
-  <clipPath id="p72c0866149">
+  <clipPath id="p188a2b4b2e">
    <rect x="87.903124" y="8.64" width="22.643752" height="54.36"/>
   </clipPath>
-  <clipPath id="p8c21647f54">
+  <clipPath id="pa023f19e6f">
    <rect x="113.722572" y="8.64" width="27.704855" height="54.36"/>
   </clipPath>
  </defs>
