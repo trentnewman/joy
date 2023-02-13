@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-02-07T22:09:27.733014</dc:date>
+    <dc:date>2023-02-13T19:51:11.666511</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -34,7 +34,7 @@ z
 L 2.230932 34.687373 
 Q 6.383898 34.344153 14.415254 34.395636 
 Q 22.44661 34.447119 26.633898 34.172542 
-" clip-path="url(#pfd3db00b5e)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p8c19d1337c)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_2">
@@ -63,7 +63,7 @@ Q 36.207993 46.766979 34.033593 47.666731
 L 31.334338 48.566483 
 M 34.071083 27.08491 
 L 50.753979 26.07269 
-" clip-path="url(#p072f0a0a5b)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p2b58e2964b)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_3">
@@ -83,18 +83,18 @@ Q 72.337097 42.118262 72.187138 42.605628
 Q 72.037179 43.092993 71.756007 43.636593 
 Q 71.474834 44.180193 71.324876 44.592579 
 L 70.200186 45.717269 
-" clip-path="url(#p9d8c549937)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p8214c382e1)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pfd3db00b5e">
+  <clipPath id="p8c19d1337c">
    <rect x="0" y="10.936525" width="28.35" height="49.766949"/>
   </clipPath>
-  <clipPath id="p072f0a0a5b">
+  <clipPath id="p2b58e2964b">
    <rect x="29.459855" y="8.64" width="26.13029" height="54.36"/>
   </clipPath>
-  <clipPath id="p9d8c549937">
+  <clipPath id="p8214c382e1">
    <rect x="67.538421" y="8.64" width="6.673159" height="54.36"/>
   </clipPath>
  </defs>
