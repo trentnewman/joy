@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-02-14T21:57:33.667822</dc:date>
+    <dc:date>2023-02-15T23:13:35.632517</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -55,7 +55,7 @@ Q 8.268703 59.438483 7.51891 59.251034
 Q 6.769117 59.063586 5.906855 58.707434 
 Q 5.044593 58.351283 4.407269 58.201324 
 L 4.182331 57.751448 
-" clip-path="url(#p9fc00b6a6c)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p1c89fb1cde)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_2">
@@ -72,7 +72,7 @@ M 24.80611 34.020497
 Q 23.906359 39.006621 23.681421 42.793076 
 L 24.131297 45.379862 
 L 24.468703 46.054676 
-" clip-path="url(#p3cc0304aaf)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pd36804ac4e)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_3">
@@ -91,7 +91,7 @@ Q 44.3052 42.755586 44.455159 41.443448
 Q 44.605117 40.13131 44.792566 39.344028 
 Q 45.879766 46.092166 45.992234 47.029407 
 L 46.104703 48.154097 
-" clip-path="url(#p8a463ba10b)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pb10d0c22a4)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_4">
@@ -108,7 +108,7 @@ Q 58.986869 37.844441 59.905366 39.04411
 Q 60.823862 40.243779 60.880097 41.668386 
 Q 60.936331 43.092993 60.973821 44.817517 
 Q 61.01131 46.542041 61.161269 48.191586 
-" clip-path="url(#p4f7e0dde01)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p5a85d5c679)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_5">
@@ -139,7 +139,7 @@ Q 66.693034 60.720674 66.693034 59.155281
 Q 66.620225 58.936854 66.656629 58.936854 
 Q 66.693034 58.936854 66.802247 58.936854 
 Q 66.911461 58.936854 66.911461 58.82764 
-" clip-path="url(#p0d0cfbdb49)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p226f3585e3)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_6"/>
@@ -167,7 +167,7 @@ Q 102.488276 24.798041 102.488276 29.971614
 L 102.488276 42.3432 
 L 102.150869 46.841959 
 L 101.925931 47.74171 
-" clip-path="url(#p1a1aa51d6b)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pa580822b1c)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_8">
@@ -187,7 +187,7 @@ Q 125.586372 36.269876 125.323945 38.706703
 Q 125.099007 41.031062 125.099007 41.555917 
 Q 124.949048 42.643117 125.286455 43.767807 
 Q 125.623862 44.892497 126.336166 45.6048 
-" clip-path="url(#p6772694bf2)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p90d80fefa2)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_9">
@@ -199,7 +199,7 @@ L 138.074897 41.743366
 Q 138.187366 42.268221 138.318579 43.749062 
 Q 138.449793 45.229903 138.7872 46.1484 
 Q 139.124607 47.066897 139.986869 47.591752 
-" clip-path="url(#p2977927c39)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p62c853193f)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_10"/>
@@ -225,7 +225,7 @@ Q 173.099172 61.163007 171.037241 60.78811
 Q 169.237738 60.488193 168.319241 60.169531 
 Q 167.400745 59.850869 165.413793 58.988607 
 L 165.301324 58.426262 
-" clip-path="url(#p1a2aab8f88)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p1bfd854acf)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_12">
@@ -248,7 +248,7 @@ Q 189.355407 48.416524 190.423862 47.291834
 Q 191.492317 46.167145 191.492317 44.255172 
 Q 191.904703 42.155752 190.742524 40.318759 
 Q 189.580345 38.481766 187.555903 37.844441 
-" clip-path="url(#paa1183d2d9)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p0e099c3f0b)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_13">
@@ -268,7 +268,7 @@ Q 206.586372 36.269876 206.323945 38.706703
 Q 206.099007 41.031062 206.099007 41.555917 
 Q 205.949048 42.643117 206.286455 43.767807 
 Q 206.623862 44.892497 207.336166 45.6048 
-" clip-path="url(#p7289bbde6f)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pf9474e89e9)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_14"/>
@@ -287,7 +287,7 @@ Q 229.107848 45.529821 229.107848 46.279614
 L 230.232538 46.279614 
 Q 230.270028 46.279614 232.481917 46.054676 
 L 240.692152 45.942207 
-" clip-path="url(#pcc4b92f491)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p7683d90646)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_16">
@@ -314,7 +314,7 @@ Q 248.288276 24.798041 248.288276 29.971614
 L 248.288276 42.3432 
 L 247.950869 46.841959 
 L 247.725931 47.74171 
-" clip-path="url(#p7c481d0931)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p9904b55708)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_17">
@@ -335,7 +335,7 @@ Q 269.924276 44.292662 270.167959 41.649641
 Q 270.411641 39.006621 270.5616 38.369297 
 Q 271.048966 45.267393 271.086455 46.392083 
 L 271.423862 48.079117 
-" clip-path="url(#p6f5b9da1be)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p0a8f4836bf)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_18"/>
@@ -361,7 +361,7 @@ Q 302.699172 61.163007 300.637241 60.78811
 Q 298.837738 60.488193 297.919241 60.169531 
 Q 297.000745 59.850869 295.013793 58.988607 
 L 294.901324 58.426262 
-" clip-path="url(#p54255ce2d5)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p432229763a)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_20">
@@ -386,7 +386,7 @@ Q 319.330303 39.194069 319.330303 37.9944
 Q 319.330303 40.1688 319.780179 43.280441 
 Q 320.230055 46.392083 320.342524 47.404303 
 L 320.904869 47.966648 
-" clip-path="url(#p1aed4a55b2)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pfb33aa17c3)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_21"/>
@@ -406,7 +406,7 @@ L 344.644759 26.560055
 Q 344.644759 29.409269 344.757228 33.008276 
 Q 344.869697 36.607283 345.057145 40.899848 
 Q 345.244593 45.192414 345.319572 47.141876 
-" clip-path="url(#pcc42c07955)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p06c14d7039)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_23">
@@ -425,7 +425,7 @@ Q 368.3052 42.755586 368.455159 41.443448
 Q 368.605117 40.13131 368.792566 39.344028 
 Q 369.879766 46.092166 369.992234 47.029407 
 L 370.104703 48.154097 
-" clip-path="url(#p978ff559cb)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p48d386a2fc)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_24">
@@ -442,7 +442,7 @@ Q 382.986869 37.844441 383.905366 39.04411
 Q 384.823862 40.243779 384.880097 41.668386 
 Q 384.936331 43.092993 384.973821 44.817517 
 Q 385.01131 46.542041 385.161269 48.191586 
-" clip-path="url(#pd0824a7b74)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p4210b5f5ac)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_25">
@@ -473,7 +473,7 @@ Q 390.693034 60.720674 390.693034 59.155281
 Q 390.620225 58.936854 390.656629 58.936854 
 Q 390.693034 58.936854 390.802247 58.936854 
 Q 390.911461 58.936854 390.911461 58.82764 
-" clip-path="url(#p77984e0404)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p0c2583465f)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_26">
@@ -491,7 +491,7 @@ Q 407.307848 45.529821 407.307848 46.279614
 L 408.432538 46.279614 
 Q 408.470028 46.279614 410.681917 46.054676 
 L 418.892152 45.942207 
-" clip-path="url(#p19b516924d)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p13d565dfc3)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_27">
@@ -518,7 +518,7 @@ Q 426.488276 24.798041 426.488276 29.971614
 L 426.488276 42.3432 
 L 426.150869 46.841959 
 L 425.925931 47.74171 
-" clip-path="url(#p93d8f33175)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p18134f3890)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_28">
@@ -539,7 +539,7 @@ Q 448.124276 44.292662 448.367959 41.649641
 Q 448.611641 39.006621 448.7616 38.369297 
 Q 449.248966 45.267393 449.286455 46.392083 
 L 449.623862 48.079117 
-" clip-path="url(#p19fda19ae2)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pfb272b4e63)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_29"/>
@@ -571,7 +571,7 @@ Q 471.693034 60.720674 471.693034 59.155281
 Q 471.620225 58.936854 471.656629 58.936854 
 Q 471.693034 58.936854 471.802247 58.936854 
 Q 471.911461 58.936854 471.911461 58.82764 
-" clip-path="url(#p9ea14c2b1a)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pc16c456de8)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_31">
@@ -594,7 +594,7 @@ Q 495.074731 36.757241 493.875062 36.86971
 Q 492.525434 36.982179 491.625683 37.9944 
 Q 490.725931 39.006621 490.725931 40.356248 
 Q 490.725931 48.82891 497.474069 46.766979 
-" clip-path="url(#pf18772918c)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pc28737ad8e)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_32">
@@ -611,7 +611,7 @@ Q 512.586869 37.844441 513.505366 39.04411
 Q 514.423862 40.243779 514.480097 41.668386 
 Q 514.536331 43.092993 514.573821 44.817517 
 Q 514.61131 46.542041 514.761269 48.191586 
-" clip-path="url(#p8584608860)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p196077b0f5)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_33">
@@ -642,7 +642,7 @@ Q 520.293034 60.720674 520.293034 59.155281
 Q 520.220225 58.936854 520.256629 58.936854 
 Q 520.293034 58.936854 520.402247 58.936854 
 Q 520.511461 58.936854 520.511461 58.82764 
-" clip-path="url(#pbe0714ca0a)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p97afc694c2)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_34"/>
@@ -663,7 +663,7 @@ Q 563.511228 27.609766 563.511228 26.185159
 Q 563.28629 26.260138 563.28629 29.896634 
 L 563.28629 44.292662 
 L 564.073572 48.229076 
-" clip-path="url(#p352beb7537)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p427e488dd4)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_36">
@@ -683,7 +683,7 @@ Q 579.186372 36.269876 578.923945 38.706703
 Q 578.699007 41.031062 578.699007 41.555917 
 Q 578.549048 42.643117 578.886455 43.767807 
 Q 579.223862 44.892497 579.936166 45.6048 
-" clip-path="url(#pc5a8058411)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p44894b8942)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_37">
@@ -701,99 +701,99 @@ Q 592.780841 47.7792 594.018 46.598276
 Q 595.255159 45.417352 595.255159 43.842786 
 Q 595.517586 42.043283 594.52411 40.318759 
 Q 593.530634 38.594234 591.88109 37.881931 
-" clip-path="url(#p59d971f070)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p3f43a3b434)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p9fc00b6a6c">
+  <clipPath id="p1c89fb1cde">
    <rect x="2.307848" y="8.64" width="11.584303" height="54.36"/>
   </clipPath>
-  <clipPath id="p3cc0304aaf">
+  <clipPath id="pd36804ac4e">
    <rect x="21.806938" y="8.64" width="4.986124" height="54.36"/>
   </clipPath>
-  <clipPath id="p8a463ba10b">
+  <clipPath id="pb10d0c22a4">
    <rect x="33.020814" y="8.64" width="14.958372" height="54.36"/>
   </clipPath>
-  <clipPath id="p4f7e0dde01">
+  <clipPath id="p5a85d5c679">
    <rect x="50.364248" y="8.64" width="12.671503" height="54.36"/>
   </clipPath>
-  <clipPath id="p0d0cfbdb49">
+  <clipPath id="p226f3585e3">
    <rect x="64.8" y="9.426742" width="16.2" height="52.786517"/>
   </clipPath>
-  <clipPath id="p1a1aa51d6b">
+  <clipPath id="pa580822b1c">
    <rect x="99.938979" y="8.64" width="10.722041" height="54.36"/>
   </clipPath>
-  <clipPath id="p6772694bf2">
+  <clipPath id="p90d80fefa2">
    <rect x="114.789352" y="8.64" width="13.421297" height="54.36"/>
   </clipPath>
-  <clipPath id="p2977927c39">
+  <clipPath id="p62c853193f">
    <rect x="133.538648" y="8.64" width="8.322703" height="54.36"/>
   </clipPath>
-  <clipPath id="p1a2aab8f88">
+  <clipPath id="p1bfd854acf">
    <rect x="163.051945" y="8.64" width="14.09611" height="54.36"/>
   </clipPath>
-  <clipPath id="paa1183d2d9">
+  <clipPath id="p0e099c3f0b">
    <rect x="178.820814" y="8.64" width="14.958372" height="54.36"/>
   </clipPath>
-  <clipPath id="p7289bbde6f">
+  <clipPath id="pf9474e89e9">
    <rect x="195.789352" y="8.64" width="13.421297" height="54.36"/>
   </clipPath>
-  <clipPath id="pcc4b92f491">
+  <clipPath id="p7683d90646">
    <rect x="227.233366" y="8.64" width="15.333269" height="54.36"/>
   </clipPath>
-  <clipPath id="p7c481d0931">
+  <clipPath id="p9904b55708">
    <rect x="245.738979" y="8.64" width="10.722041" height="54.36"/>
   </clipPath>
-  <clipPath id="p6f5b9da1be">
+  <clipPath id="p0a8f4836bf">
    <rect x="261.301655" y="8.64" width="11.99669" height="54.36"/>
   </clipPath>
-  <clipPath id="p54255ce2d5">
+  <clipPath id="p432229763a">
    <rect x="292.651945" y="8.64" width="14.09611" height="54.36"/>
   </clipPath>
-  <clipPath id="p1aed4a55b2">
+  <clipPath id="pfb33aa17c3">
    <rect x="309.020648" y="8.64" width="13.758703" height="54.36"/>
   </clipPath>
-  <clipPath id="pcc42c07955">
+  <clipPath id="p06c14d7039">
    <rect x="341.758055" y="8.64" width="13.08389" height="54.36"/>
   </clipPath>
-  <clipPath id="p978ff559cb">
+  <clipPath id="p48d386a2fc">
    <rect x="357.020814" y="8.64" width="14.958372" height="54.36"/>
   </clipPath>
-  <clipPath id="pd0824a7b74">
+  <clipPath id="p4210b5f5ac">
    <rect x="374.364248" y="8.64" width="12.671503" height="54.36"/>
   </clipPath>
-  <clipPath id="p77984e0404">
+  <clipPath id="p0c2583465f">
    <rect x="388.8" y="9.426742" width="16.2" height="52.786517"/>
   </clipPath>
-  <clipPath id="p19b516924d">
+  <clipPath id="p13d565dfc3">
    <rect x="405.433366" y="8.64" width="15.333269" height="54.36"/>
   </clipPath>
-  <clipPath id="p93d8f33175">
+  <clipPath id="p18134f3890">
    <rect x="423.938979" y="8.64" width="10.722041" height="54.36"/>
   </clipPath>
-  <clipPath id="p19fda19ae2">
+  <clipPath id="pfb272b4e63">
    <rect x="439.501655" y="8.64" width="11.99669" height="54.36"/>
   </clipPath>
-  <clipPath id="p9ea14c2b1a">
+  <clipPath id="pc16c456de8">
    <rect x="469.8" y="9.426742" width="16.2" height="52.786517"/>
   </clipPath>
-  <clipPath id="pf18772918c">
+  <clipPath id="pc28737ad8e">
    <rect x="488.851448" y="8.64" width="10.497103" height="54.36"/>
   </clipPath>
-  <clipPath id="p8584608860">
+  <clipPath id="p196077b0f5">
    <rect x="503.964248" y="8.64" width="12.671503" height="54.36"/>
   </clipPath>
-  <clipPath id="pbe0714ca0a">
+  <clipPath id="p97afc694c2">
    <rect x="518.4" y="9.426742" width="16.2" height="52.786517"/>
   </clipPath>
-  <clipPath id="p352beb7537">
+  <clipPath id="p427e488dd4">
    <rect x="551.851945" y="8.64" width="14.09611" height="54.36"/>
   </clipPath>
-  <clipPath id="pc5a8058411">
+  <clipPath id="p44894b8942">
    <rect x="568.389352" y="8.64" width="13.421297" height="54.36"/>
   </clipPath>
-  <clipPath id="p59d971f070">
+  <clipPath id="p3f43a3b434">
    <rect x="585.207931" y="8.64" width="12.184138" height="54.36"/>
   </clipPath>
  </defs>
