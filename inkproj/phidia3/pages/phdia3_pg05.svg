@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.64"
-     inkscape:cx="296.875"
-     inkscape:cy="323.4375"
+     inkscape:cx="50"
+     inkscape:cy="317.1875"
      inkscape:window-width="1366"
      inkscape:window-height="685"
      inkscape:window-x="0"
@@ -2838,7 +2838,7 @@
        id="axes_8"
        transform="matrix(0.35277778,0,0,0.35277778,17.958594,72.876172)" /><g
        id="g69876"
-       transform="translate(-90.579024)"><g
+       transform="translate(-90.579024,5.2916663)"><g
          id="axes_1"
          transform="matrix(0.15,0,0,0.15,116.6894,8.358525)"><g
            id="patch_2"><path
@@ -2918,7 +2918,7 @@
        id="axes_26"
        transform="matrix(0.15,0,0,0.15,116.6894,23.122305)" /><g
        id="g69965"
-       transform="translate(-103.8442,5.2247967)"><g
+       transform="translate(-103.8442,4.6956296)"><g
          id="g61676"
          transform="matrix(0.15,0,0,0.15,116.6894,23.122305)"><g
            id="g61674"><path
@@ -3203,7 +3203,7 @@
        id="g62163"
        transform="matrix(0.15,0,0,0.15,116.6894,52.649864)" /><g
        id="g70086"
-       transform="translate(-103.90239,3.7981443)"><g
+       transform="translate(-103.90239,-2.0226891)"><g
          id="g62029"
          transform="matrix(0.15,0,0,0.15,116.6894,52.649864)"><g
            id="g62027"><path
@@ -3408,7 +3408,7 @@
              style="fill:none;stroke:#000000;stroke-linejoin:miter"
              id="path62201" /></g></g></g><g
        id="g70118"
-       transform="translate(-90.837606,-2.8006109)"><g
+       transform="translate(-90.837606,-8.0922773)"><g
          id="g62316"
          transform="matrix(0.15,0,0,0.15,116.6894,67.413643)"><g
            id="g62314"><path
@@ -3488,7 +3488,7 @@
        id="g62564"
        transform="matrix(0.15,0,0,0.15,116.6894,82.177423)" /><g
        id="g70216"
-       transform="translate(-107.47713,2.7774858)"><g
+       transform="translate(-107.47713,-8.335014)"><g
          id="g62424"
          transform="matrix(0.15,0,0,0.15,116.6894,82.177423)"><g
            id="g62422"><path
@@ -3923,7 +3923,7 @@
        id="g63149"
        transform="matrix(0.15,0,0,0.15,116.6894,111.70498)" /><g
        id="g70397"
-       transform="translate(-110.36737,0.92583627)"><g
+       transform="translate(-110.36737,-5.4241638)"><g
          id="g62999"
          transform="matrix(0.15,0,0,0.15,116.6894,111.70498)"><g
            id="g62997"><path
@@ -4159,7 +4159,7 @@
        id="g63481"
        transform="matrix(0.15,0,0,0.15,116.6894,126.46877)" /><g
        id="g70501"
-       transform="translate(-111.12255)"><g
+       transform="translate(-111.12255,-12.700001)"><g
          id="g63315"
          transform="matrix(0.15,0,0,0.15,116.6894,126.46877)"><g
            id="g63313"><path

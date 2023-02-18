@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.64"
-     inkscape:cx="35.9375"
-     inkscape:cy="348.4375"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="227.6"
+     inkscape:cy="276.21359"
      inkscape:window-width="1366"
      inkscape:window-height="685"
      inkscape:window-x="0"
@@ -2208,7 +2208,7 @@
        id="g6215"
        transform="matrix(0.25,0,0,0.25,16.660997,110.78203)" /><g
        id="g6811"
-       transform="translate(61.857692)"><g
+       transform="translate(61.857692,47.095844)"><g
          id="axes_1"
          transform="matrix(0.15,0,0,0.15,-23.059766,12.823065)"><g
            id="patch_2"><path
@@ -2251,7 +2251,7 @@
        id="axes_14-2"
        transform="matrix(0.15,0,0,0.15,-23.059766,34.968734)" /><g
        id="g6858"
-       transform="translate(53.751484,4.9729561)"><g
+       transform="translate(53.751484,37.252131)"><g
          id="g4649"
          transform="matrix(0.15,0,0,0.15,-23.059766,34.968734)"><g
            id="g4647"><path
@@ -2358,7 +2358,7 @@
              style="fill:none;stroke:#000000;stroke-linejoin:miter"
              id="path4714" /></g></g></g><g
        id="g6872"
-       transform="translate(70.681396,4.5107363)"><g
+       transform="translate(70.681396,21.97324)"><g
          id="g4785"
          transform="matrix(0.15,0,0,0.15,-23.059766,57.114404)"><g
            id="g4783"><path
@@ -2388,7 +2388,7 @@
              style="fill:none;stroke:#000000;stroke-linejoin:miter"
              id="path4799" /></g></g></g><g
        id="g6886"
-       transform="translate(64.664088,-3.8027573)"><g
+       transform="translate(64.664088,13.13058)"><g
          id="g4839"
          transform="matrix(0.15,0,0,0.15,-23.059766,79.260073)"><g
            id="g4837"><path
@@ -2422,7 +2422,7 @@
        id="g4951"
        transform="matrix(0.15,0,0,0.15,-23.059766,101.40574)" /><g
        id="g6927"
-       transform="translate(57.618553,2.5483225)"><g
+       transform="translate(57.618553,5.1941553)"><g
          id="g4893"
          transform="matrix(0.15,0,0,0.15,-23.059766,101.40574)"><g
            id="g4891"><path
@@ -2517,7 +2517,7 @@
        id="g5064"
        transform="matrix(0.15,0,0,0.15,-23.059766,123.55141)" /><g
        id="g6962"
-       transform="translate(61.151979)"><g
+       transform="translate(61.151979,-10.583333)"><g
          id="g5032"
          transform="matrix(0.15,0,0,0.15,-23.059766,123.55141)"><g
            id="g5030"><path
