@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.64"
-     inkscape:cx="460.9375"
-     inkscape:cy="279.6875"
+     inkscape:cx="282.8125"
+     inkscape:cy="237.5"
      inkscape:window-width="1366"
      inkscape:window-height="685"
      inkscape:window-x="0"
@@ -1536,7 +1536,7 @@
        id="axes_8"
        transform="matrix(0.35277778,0,0,0.35277778,17.958594,72.876172)" /><g
        id="g146380"
-       transform="translate(-79.002667)"><g
+       transform="translate(-79.002667,1.0583333)"><g
          id="axes_1"
          transform="matrix(0.15,0,0,0.15,113.22296,16.807209)"><g
            id="patch_2"><path
@@ -1595,7 +1595,7 @@
        id="axes_18"
        transform="matrix(0.15,0,0,0.15,113.22296,38.952878)" /><g
        id="g146436"
-       transform="translate(-87.022483,5.3551346)"><g
+       transform="translate(-87.022483,-6.2865326)"><g
          id="g142246"
          transform="matrix(0.15,0,0,0.15,113.22296,38.952878)"><g
            id="g142244"><path
@@ -1723,7 +1723,7 @@
              style="fill:none;stroke:#000000;stroke-linejoin:miter"
              id="path142328" /></g></g></g><g
        id="g146468"
-       transform="translate(-87.325096,-3.5852254)"><g
+       transform="translate(-87.325096,-20.518556)"><g
          id="g142408"
          transform="matrix(0.15,0,0,0.15,113.22296,61.098548)"><g
            id="g142406"><path
@@ -1803,7 +1803,7 @@
        id="axes_26"
        transform="matrix(0.15,0,0,0.15,113.22296,83.244217)" /><g
        id="g146554"
-       transform="translate(-99.241057,1.9458001)"><g
+       transform="translate(-99.241057,-28.216697)"><g
          id="g142516"
          transform="matrix(0.15,0,0,0.15,113.22296,83.244217)"><g
            id="g142514"><path
@@ -2009,7 +2009,7 @@
        id="g142866"
        transform="matrix(0.15,0,0,0.15,113.22296,105.38989)" /><g
        id="g146619"
-       transform="translate(-90.678596,0.97289858)"><g
+       transform="translate(-90.678596,-26.014601)"><g
          id="g142774"
          transform="matrix(0.15,0,0,0.15,113.22296,105.38989)"><g
            id="g142772"><path
@@ -2164,7 +2164,7 @@
        id="g143061"
        transform="matrix(0.15,0,0,0.15,113.22296,127.53556)" /><g
        id="g146687"
-       transform="translate(-90.799321)"><g
+       transform="translate(-90.799321,-41.275004)"><g
          id="g142989"
          transform="matrix(0.15,0,0,0.15,113.22296,127.53556)"><g
            id="g142987"><path
