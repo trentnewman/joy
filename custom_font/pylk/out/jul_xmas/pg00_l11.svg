@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-12-13T11:13:47.618524</dc:date>
+    <dc:date>2023-12-13T11:18:40.753641</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,7 +42,7 @@ Q 7.415034 32.949664 7.610738 33.406309
 Q 7.610738 34.711007 7.752081 36.363624 
 Q 7.893423 38.016242 8.110872 39.973289 
 Q 8.328322 41.930336 8.393557 42.800134 
-" clip-path="url(#pa22c609fea)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pf654104155)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_2">
@@ -61,7 +61,7 @@ Q 25.799586 33.345683 26.136993 33.626855
 Q 26.4744 33.908028 26.736828 34.432883 
 Q 26.999255 34.957738 27.336662 35.257655 
 L 27.786538 36.832221 
-" clip-path="url(#p2f5aded42a)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pc058a914f5)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_3">
@@ -82,7 +82,7 @@ Q 36.152752 37.454862 36.152752 39.609908
 Q 36.152752 42.619541 38.084862 44.570229 
 Q 40.016972 46.520917 43.063761 46.520917 
 Q 45.218807 46.818165 46.742202 44.29156 
-" clip-path="url(#pa9ef1b89ed)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p2dfbf3d5cd)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_4">
@@ -99,7 +99,7 @@ Q 58.986869 37.844441 59.905366 39.04411
 Q 60.823862 40.243779 60.880097 41.668386 
 Q 60.936331 43.092993 60.973821 44.817517 
 Q 61.01131 46.542041 61.161269 48.191586 
-" clip-path="url(#p6bcdb66fdb)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#pb52be4aa38)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="axes_5">
@@ -122,24 +122,24 @@ Q 73.687283 46.72949 74.249628 46.72949
 Q 74.362097 46.692 74.680759 46.72949 
 Q 74.999421 46.766979 75.186869 46.710745 
 Q 75.374317 46.65451 75.374317 46.392083 
-" clip-path="url(#p6b19e74ed1)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+" clip-path="url(#p8954fa2344)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pa22c609fea">
+  <clipPath id="pf654104155">
    <rect x="0" y="20.054899" width="16.2" height="31.530201"/>
   </clipPath>
-  <clipPath id="p2f5aded42a">
+  <clipPath id="pc058a914f5">
    <rect x="18.938979" y="8.64" width="10.722041" height="54.36"/>
   </clipPath>
-  <clipPath id="pa9ef1b89ed">
+  <clipPath id="p2dfbf3d5cd">
    <rect x="32.4" y="8.881927" width="16.2" height="53.876147"/>
   </clipPath>
-  <clipPath id="p6bcdb66fdb">
+  <clipPath id="pb52be4aa38">
    <rect x="50.364248" y="8.64" width="12.671503" height="54.36"/>
   </clipPath>
-  <clipPath id="p6b19e74ed1">
+  <clipPath id="p8954fa2344">
    <rect x="66.189352" y="8.64" width="13.421297" height="54.36"/>
   </clipPath>
  </defs>
