@@ -1,0 +1,7 @@
+Top text, Y: 8
+Left text, X: 5
+
+Paragraph indent: shift+right
+
+Page number, Y: 130
+Page number, center align
