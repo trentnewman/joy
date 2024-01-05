@@ -1,0 +1,16 @@
+Scale: 90% (proportional)
+
+Top text, Y: 12
+Left text, X: 6
+
+Below title: down x3
+Below chapter number: down x3
+Paragraph indent: shift+right
+New section: shift+down
+lines: up x1
+New paragraph: down x1 or x2
+
+Page number, Y: 135
+Page number, center align
+
+Characters squeezed for long lines
